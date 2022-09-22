@@ -1,4 +1,3 @@
-import IconWork from "../images/icon-work.svg";
 import IconEllipsis from "../images/icon-ellipsis.svg";
 
 export function Card(props){
